@@ -1,2 +1,6 @@
 .env
 node_modules
+
+# Ignore IDE files
+.idea/
+.vscode/
